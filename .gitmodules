@@ -1,0 +1,9 @@
+[submodule "Substrate.Hexalem.Node"]
+	path = Substrate.Hexalem.Node
+	url = https://github.com/SubstrateGaming/Substrate.Hexalem.Node
+[submodule "Substrate.Hexalem.NET"]
+	path = Substrate.Hexalem.NET
+	url = https://github.com/SubstrateGaming/Substrate.Hexalem.NET
+[submodule "Substrate.Hexalem.Unity"]
+	path = Substrate.Hexalem.Unity
+	url = https://github.com/SubstrateGaming/Substrate.Hexalem.Unity
