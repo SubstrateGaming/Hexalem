@@ -37,6 +37,14 @@ git submodule update
 
 [View on IcePanel](https://s.icepanel.io/zWHET9Tj4wybDh/elfG)
 
+# Deployed chains
+
+Hexalem chain deployed to Tanssi
+- wss://fraa-dancebox-3023-rpc.a.dancebox.tanssi.network
+
+Solo (centralized) chain with asynchronous backing for quicker presenting
+- wss://hexalem-rpc.substrategaming.org
+
 # Presentation
 
 - [Polkadot Winter Hackathon 2023 recording of the presentation](https://www.youtube.com/live/_6uUkeI99yQ?si=UWKEnjk0jyGr6xG1&t=7532)
