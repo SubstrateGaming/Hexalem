@@ -1,0 +1,47 @@
+Gameplay ideas
+
+- 1 board for all players (1 map)
+
+- 2 phases:
+  - Building phase
+  - Battle phase
+
+- Multiple winning conditions (same for all players):
+  - Defeat all oponents
+  - Upgrade house to max level
+  - Have 60% of tiles
+
+- If you do not choose to fight, accumulate "battle" resources
+
+- Each tile has got health
+
+- Manually allocate what humans do
+
+- If you place a tile on a wrong position, you can not change it
+
+- Build and use your own deck
+
+- tile Formations
+
+- Upgrade tiles, evolution:
+  - Farm -> [crude oil driller](https://www.linedpipesystems.com/oil-drilling/)
+  - River/pond tile -> 
+  - Mountains -> Steel 
+  - Desert -> Solar panels
+
+- Gameplay loop:
+  - Buy a tile
+  - (accumulate tiles)
+  - Place tiles
+  - (Automatic? - to make it simple) Choose human actions
+  - end turn?
+
+- Rating
+
+- 1 saved map
+
+
+
+
+
+
